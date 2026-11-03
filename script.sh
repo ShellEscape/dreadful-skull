@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# if terminal command hangs then that means it is working as intended
 # Exit if a command fails or a variable is unassigned
 set -euo pipefail
 
